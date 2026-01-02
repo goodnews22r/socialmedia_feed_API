@@ -1,10 +1,10 @@
-# 🧩 Mini Social Media Feed API
+#  Mini Social Media Feed API
 
 A simple backend API built with **FastAPI** and **PostgreSQL** that allows users to register, create posts (with optional image uploads), view posts, and like posts.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User registration (username & email)
 - Create posts with optional image upload
@@ -25,5 +25,5 @@ A simple backend API built with **FastAPI** and **PostgreSQL** that allows users
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
