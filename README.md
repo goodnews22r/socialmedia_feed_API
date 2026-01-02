@@ -15,7 +15,7 @@ A simple backend API built with **FastAPI** and **PostgreSQL** that allows users
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python 3.11**
 - **FastAPI**
